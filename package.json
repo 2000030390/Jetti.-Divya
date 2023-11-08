@@ -1,0 +1,17 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My Node.js project",
+  "main": "index.js",
+  "keywords": [],
+  "authors": [
+    "Your Name"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    // Add any dependencies here
+  },
+  "scripts": {
+    "test": "echo \"Error: No test specified\" && exit 1"
+  }
+}
